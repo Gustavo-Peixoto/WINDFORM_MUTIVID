@@ -43,11 +43,11 @@
             // 
             checkBox1.AutoSize = true;
             checkBox1.BackColor = Color.Transparent;
-            checkBox1.Font = new Font("Perpetua", 9F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            checkBox1.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Italic, GraphicsUnit.Point, 0);
             checkBox1.Location = new Point(744, 390);
             checkBox1.Margin = new Padding(3, 2, 3, 2);
             checkBox1.Name = "checkBox1";
-            checkBox1.Size = new Size(78, 21);
+            checkBox1.Size = new Size(83, 19);
             checkBox1.TabIndex = 0;
             checkBox1.Text = "Ver Senha";
             checkBox1.UseVisualStyleBackColor = false;
@@ -58,7 +58,7 @@
             textBox1.Location = new Point(613, 332);
             textBox1.Margin = new Padding(3, 2, 3, 2);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(125, 23);
+            textBox1.Size = new Size(125, 20);
             textBox1.TabIndex = 2;
             // 
             // textBox2
@@ -67,7 +67,7 @@
             textBox2.Location = new Point(613, 387);
             textBox2.Margin = new Padding(3, 2, 3, 2);
             textBox2.Name = "textBox2";
-            textBox2.Size = new Size(125, 23);
+            textBox2.Size = new Size(125, 20);
             textBox2.TabIndex = 3;
             // 
             // linkLabel1
@@ -81,7 +81,7 @@
             linkLabel1.LinkColor = SystemColors.Highlight;
             linkLabel1.Location = new Point(623, 475);
             linkLabel1.Name = "linkLabel1";
-            linkLabel1.Size = new Size(108, 18);
+            linkLabel1.Size = new Size(87, 14);
             linkLabel1.TabIndex = 4;
             linkLabel1.TabStop = true;
             linkLabel1.Text = "Cadastra-se";
@@ -90,10 +90,10 @@
             // 
             label1.AutoSize = true;
             label1.BackColor = Color.Transparent;
-            label1.Font = new Font("Perpetua", 10.2F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            label1.Font = new Font("Microsoft Sans Serif", 10.2F, FontStyle.Italic, GraphicsUnit.Point, 0);
             label1.Location = new Point(553, 332);
             label1.Name = "label1";
-            label1.Size = new Size(52, 20);
+            label1.Size = new Size(57, 17);
             label1.TabIndex = 5;
             label1.Text = "Usuário";
             // 
@@ -101,10 +101,10 @@
             // 
             label2.AutoSize = true;
             label2.BackColor = Color.Transparent;
-            label2.Font = new Font("Perpetua", 10.2F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            label2.Font = new Font("Microsoft Sans Serif", 10.2F, FontStyle.Italic, GraphicsUnit.Point, 0);
             label2.Location = new Point(553, 387);
             label2.Name = "label2";
-            label2.Size = new Size(42, 20);
+            label2.Size = new Size(49, 17);
             label2.TabIndex = 6;
             label2.Text = "Senha";
             // 
@@ -127,15 +127,16 @@
             label3.Font = new Font("Georgia", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label3.Location = new Point(623, 242);
             label3.Name = "label3";
-            label3.Size = new Size(104, 35);
+            label3.Size = new Size(83, 29);
             label3.TabIndex = 7;
             label3.Text = "Login";
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(8F, 16F);
+            AutoScaleDimensions = new SizeF(7F, 12F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(1344, 719);
             Controls.Add(label3);
             Controls.Add(label2);

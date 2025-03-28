@@ -29,64 +29,61 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Cadastro));
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
-            textBox3 = new TextBox();
-            textBox4 = new TextBox();
+            txtnome = new TextBox();
+            txtsenha = new TextBox();
+            txttelefone = new TextBox();
+            txtconfirm = new TextBox();
             label1 = new Label();
             label2 = new Label();
             label3 = new Label();
             label4 = new Label();
             label5 = new Label();
-            button1 = new Button();
-            checkBox1 = new CheckBox();
-            checkBox2 = new CheckBox();
+            btdcadastrar = new Button();
+            versenha = new CheckBox();
             SuspendLayout();
             // 
-            // textBox1
+            // txtnome
             // 
-            textBox1.BackColor = Color.WhiteSmoke;
-            textBox1.Location = new Point(542, 240);
-            textBox1.Margin = new Padding(3, 2, 3, 2);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(110, 23);
-            textBox1.TabIndex = 0;
+            txtnome.BackColor = Color.WhiteSmoke;
+            txtnome.Location = new Point(619, 320);
+            txtnome.Name = "txtnome";
+            txtnome.Size = new Size(125, 27);
+            txtnome.TabIndex = 0;
             // 
-            // textBox2
+            // txtsenha
             // 
-            textBox2.BackColor = Color.WhiteSmoke;
-            textBox2.Location = new Point(542, 290);
-            textBox2.Margin = new Padding(3, 2, 3, 2);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(110, 23);
-            textBox2.TabIndex = 1;
+            txtsenha.BackColor = Color.WhiteSmoke;
+            txtsenha.Location = new Point(619, 387);
+            txtsenha.Name = "txtsenha";
+            txtsenha.Size = new Size(125, 27);
+            txtsenha.TabIndex = 1;
+            txtsenha.UseSystemPasswordChar = true;
             // 
-            // textBox3
+            // txttelefone
             // 
-            textBox3.BackColor = Color.WhiteSmoke;
-            textBox3.Location = new Point(542, 265);
-            textBox3.Margin = new Padding(3, 2, 3, 2);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(110, 23);
-            textBox3.TabIndex = 1;
+            txttelefone.BackColor = Color.WhiteSmoke;
+            txttelefone.Location = new Point(619, 353);
+            txttelefone.Name = "txttelefone";
+            txttelefone.Size = new Size(125, 27);
+            txttelefone.TabIndex = 1;
             // 
-            // textBox4
+            // txtconfirm
             // 
-            textBox4.BackColor = Color.WhiteSmoke;
-            textBox4.Location = new Point(542, 314);
-            textBox4.Margin = new Padding(3, 2, 3, 2);
-            textBox4.Name = "textBox4";
-            textBox4.Size = new Size(110, 23);
-            textBox4.TabIndex = 2;
+            txtconfirm.BackColor = Color.WhiteSmoke;
+            txtconfirm.Location = new Point(619, 419);
+            txtconfirm.Name = "txtconfirm";
+            txtconfirm.Size = new Size(125, 27);
+            txtconfirm.TabIndex = 2;
+            txtconfirm.UseSystemPasswordChar = true;
             // 
             // label1
             // 
             label1.AutoSize = true;
             label1.BackColor = Color.Transparent;
             label1.Font = new Font("Microsoft Sans Serif", 10.2F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            label1.Location = new Point(491, 240);
+            label1.Location = new Point(561, 320);
             label1.Name = "label1";
-            label1.Size = new Size(57, 17);
+            label1.Size = new Size(67, 20);
             label1.TabIndex = 3;
             label1.Text = "Usuário";
             label1.Click += label1_Click;
@@ -96,9 +93,9 @@
             label2.AutoSize = true;
             label2.BackColor = Color.Transparent;
             label2.Font = new Font("Microsoft Sans Serif", 10.2F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            label2.Location = new Point(491, 265);
+            label2.Location = new Point(561, 353);
             label2.Name = "label2";
-            label2.Size = new Size(64, 17);
+            label2.Size = new Size(73, 20);
             label2.TabIndex = 4;
             label2.Text = "Telefone";
             label2.Click += label2_Click;
@@ -108,9 +105,9 @@
             label3.AutoSize = true;
             label3.BackColor = Color.Transparent;
             label3.Font = new Font("Microsoft Sans Serif", 10.2F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            label3.Location = new Point(500, 290);
+            label3.Location = new Point(571, 387);
             label3.Name = "label3";
-            label3.Size = new Size(49, 17);
+            label3.Size = new Size(56, 20);
             label3.TabIndex = 5;
             label3.Text = "Senha";
             // 
@@ -119,9 +116,9 @@
             label4.AutoSize = true;
             label4.BackColor = Color.Transparent;
             label4.Font = new Font("Microsoft Sans Serif", 10.2F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            label4.Location = new Point(469, 314);
+            label4.Location = new Point(536, 419);
             label4.Name = "label4";
-            label4.Size = new Size(87, 17);
+            label4.Size = new Size(104, 20);
             label4.TabIndex = 6;
             label4.Text = "Confirmação";
             label4.Click += label4_Click;
@@ -131,71 +128,56 @@
             label5.AutoSize = true;
             label5.BackColor = Color.Transparent;
             label5.Font = new Font("Georgia", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label5.Location = new Point(531, 179);
+            label5.Location = new Point(607, 239);
             label5.Name = "label5";
-            label5.Size = new Size(123, 29);
+            label5.Size = new Size(154, 35);
             label5.TabIndex = 7;
             label5.Text = "Cadastro";
             label5.Click += label5_Click;
             // 
-            // button1
+            // btdcadastrar
             // 
-            button1.BackColor = Color.WhiteSmoke;
-            button1.Font = new Font("Verdana", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            button1.Location = new Point(551, 352);
-            button1.Margin = new Padding(3, 2, 3, 2);
-            button1.Name = "button1";
-            button1.Size = new Size(85, 23);
-            button1.TabIndex = 8;
-            button1.Text = "Cadastrar ";
-            button1.UseVisualStyleBackColor = false;
+            btdcadastrar.BackColor = Color.WhiteSmoke;
+            btdcadastrar.Font = new Font("Verdana", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btdcadastrar.Location = new Point(630, 469);
+            btdcadastrar.Name = "btdcadastrar";
+            btdcadastrar.Size = new Size(97, 31);
+            btdcadastrar.TabIndex = 8;
+            btdcadastrar.Text = "Cadastrar ";
+            btdcadastrar.UseVisualStyleBackColor = false;
+            btdcadastrar.Click += btdcadastrar_Click;
             // 
-            // checkBox1
+            // versenha
             // 
-            checkBox1.AutoSize = true;
-            checkBox1.BackColor = Color.Transparent;
-            checkBox1.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            checkBox1.Location = new Point(656, 294);
-            checkBox1.Margin = new Padding(3, 2, 3, 2);
-            checkBox1.Name = "checkBox1";
-            checkBox1.Size = new Size(83, 19);
-            checkBox1.TabIndex = 9;
-            checkBox1.Text = "Ver Senha";
-            checkBox1.UseVisualStyleBackColor = false;
-            // 
-            // checkBox2
-            // 
-            checkBox2.AutoSize = true;
-            checkBox2.BackColor = Color.Transparent;
-            checkBox2.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Italic, GraphicsUnit.Point, 0);
-            checkBox2.Location = new Point(656, 319);
-            checkBox2.Margin = new Padding(3, 2, 3, 2);
-            checkBox2.Name = "checkBox2";
-            checkBox2.Size = new Size(86, 19);
-            checkBox2.TabIndex = 10;
-            checkBox2.Text = "Ver Senha ";
-            checkBox2.UseVisualStyleBackColor = false;
+            versenha.AutoSize = true;
+            versenha.BackColor = Color.Transparent;
+            versenha.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            versenha.Location = new Point(750, 404);
+            versenha.Name = "versenha";
+            versenha.Size = new Size(98, 22);
+            versenha.TabIndex = 9;
+            versenha.Text = "Ver Senha";
+            versenha.UseVisualStyleBackColor = false;
+            versenha.CheckedChanged += checkBox1_CheckedChanged;
             // 
             // Cadastro
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
-            ClientSize = new Size(1180, 541);
-            Controls.Add(checkBox2);
-            Controls.Add(checkBox1);
-            Controls.Add(button1);
+            ClientSize = new Size(1349, 721);
+            Controls.Add(versenha);
+            Controls.Add(btdcadastrar);
             Controls.Add(label5);
             Controls.Add(label4);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
-            Controls.Add(textBox4);
-            Controls.Add(textBox3);
-            Controls.Add(textBox2);
-            Controls.Add(textBox1);
-            Margin = new Padding(3, 2, 3, 2);
+            Controls.Add(txtconfirm);
+            Controls.Add(txttelefone);
+            Controls.Add(txtsenha);
+            Controls.Add(txtnome);
             Name = "Cadastro";
             Text = "Cadastro";
             ResumeLayout(false);
@@ -204,17 +186,16 @@
 
         #endregion
 
-        private TextBox textBox1;
-        private TextBox textBox2;
-        private TextBox textBox3;
-        private TextBox textBox4;
+        private TextBox txtnome;
+        private TextBox txtsenha;
+        private TextBox txttelefone;
+        private TextBox txtconfirm;
         private Label label1;
         private Label label2;
         private Label label3;
         private Label label4;
         private Label label5;
-        private Button button1;
-        private CheckBox checkBox1;
-        private CheckBox checkBox2;
+        private Button btdcadastrar;
+        private CheckBox versenha;
     }
 }

@@ -1,18 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Maria Clara\\Desktop\\exercicios\\exerciciomosca\\projeto\\",
+  "WorkspaceRootPath": "C:\\Users\\Alunos\\Desktop\\dvp\\projeto_andery_asm\\projeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|C:\\Users\\Maria Clara\\Desktop\\exercicios\\exerciciomosca\\projeto\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|solutionrelative:cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|c:\\users\\alunos\\desktop\\dvp\\projeto_andery_asm\\projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|c:\\users\\maria clara\\desktop\\exercicios\\exerciciomosca\\projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|c:\\users\\alunos\\desktop\\dvp\\projeto_andery_asm\\projeto\\projeto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|solutionrelative:projeto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|C:\\Users\\Maria Clara\\Desktop\\exercicios\\exerciciomosca\\projeto\\videos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|C:\\Users\\Alunos\\Desktop\\dvp\\projeto_andery_asm\\projeto\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|c:\\users\\alunos\\desktop\\dvp\\projeto_andery_asm\\projeto\\videos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|solutionrelative:videos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|C:\\Users\\Alunos\\Desktop\\dvp\\projeto_andery_asm\\projeto\\videos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|solutionrelative:videos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|c:\\users\\alunos\\desktop\\dvp\\projeto_andery_asm\\projeto\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Maria Clara\\Desktop\\exercicios\\exerciciomosca\\projeto\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Maria Clara\\Desktop\\exercicios\\exerciciomosca\\projeto\\Form1.cs [Projeto]",
-              "RelativeToolTip": "Form1.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T18:44:20.49Z",
-              "EditorCaption": " [Projeto]"
+              "Title": "projeto.csproj",
+              "DocumentMoniker": "C:\\Users\\Alunos\\Desktop\\dvp\\projeto_andery_asm\\projeto\\projeto.csproj",
+              "RelativeDocumentMoniker": "projeto.csproj",
+              "ToolTip": "C:\\Users\\Alunos\\Desktop\\dvp\\projeto_andery_asm\\projeto\\projeto.csproj",
+              "RelativeToolTip": "projeto.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T18:28:09.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Cadastro.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Maria Clara\\Desktop\\exercicios\\exerciciomosca\\projeto\\Cadastro.cs",
-              "RelativeDocumentMoniker": "Cadastro.cs",
-              "ToolTip": "C:\\Users\\Maria Clara\\Desktop\\exercicios\\exerciciomosca\\projeto\\Cadastro.cs [Projeto]",
-              "RelativeToolTip": "Cadastro.cs [Projeto]",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Alunos\\Desktop\\dvp\\projeto_andery_asm\\projeto\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\Alunos\\Desktop\\dvp\\projeto_andery_asm\\projeto\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T19:41:49.715Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-03-28T01:53:53.182Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Videos.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Maria Clara\\Desktop\\exercicios\\exerciciomosca\\projeto\\Videos.cs",
-              "RelativeDocumentMoniker": "Videos.cs",
-              "ToolTip": "C:\\Users\\Maria Clara\\Desktop\\exercicios\\exerciciomosca\\projeto\\Videos.cs [Projeto]",
-              "RelativeToolTip": "Videos.cs [Projeto]",
+              "Title": "Form2.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Alunos\\Desktop\\dvp\\projeto_andery_asm\\projeto\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\Alunos\\Desktop\\projeto\\Form2.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\projeto\\Form2.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T19:54:10.66Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-03-28T01:48:48.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Videos.cs",
+              "DocumentMoniker": "C:\\Users\\Alunos\\Desktop\\dvp\\projeto_andery_asm\\projeto\\Videos.cs",
+              "RelativeDocumentMoniker": "Videos.cs",
+              "ToolTip": "C:\\Users\\Alunos\\Desktop\\dvp\\projeto_andery_asm\\projeto\\Videos.cs",
+              "RelativeToolTip": "Videos.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T01:28:40.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alunos\\Desktop\\dvp\\projeto_andery_asm\\projeto\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Alunos\\Desktop\\dvp\\projeto_andery_asm\\projeto\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T01:32:27.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Videos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Alunos\\Desktop\\dvp\\projeto_andery_asm\\projeto\\Videos.cs",
+              "RelativeDocumentMoniker": "Videos.cs",
+              "ToolTip": "C:\\Users\\Alunos\\Desktop\\projeto\\Videos.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\projeto\\Videos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T18:36:19.716Z"
             }
           ]
         }

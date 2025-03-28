@@ -21,5 +21,13 @@ namespace projeto
         {
 
         }
+
+        private void btn_vid1_Click(object sender, EventArgs e)
+        {
+            Form2 vid = new Form2();
+            vid.Arquivo = @"";//colocar o video que quer aqui.
+            vid.Show();
+            this.Hide();
+        }
     }
 }

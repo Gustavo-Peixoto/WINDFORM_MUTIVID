@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Maria Clara\\Desktop\\exercicios\\exerciciomosca\\lopesacm\\projeto\\",
+  "WorkspaceRootPath": "C:\\Users\\gusta\\OneDrive\\Desktop\\code\\dvp\\projeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|c:\\users\\maria clara\\desktop\\exercicios\\exerciciomosca\\lopesacm\\projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|c:\\users\\gusta\\onedrive\\desktop\\code\\dvp\\projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|c:\\users\\maria clara\\desktop\\exercicios\\exerciciomosca\\lopesacm\\projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|c:\\users\\gusta\\onedrive\\desktop\\code\\dvp\\projeto\\videos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|solutionrelative:videos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|c:\\users\\maria clara\\desktop\\exercicios\\exerciciomosca\\lopesacm\\projeto\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|solutionrelative:cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|c:\\users\\maria clara\\desktop\\exercicios\\exerciciomosca\\lopesacm\\projeto\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|c:\\users\\gusta\\onedrive\\desktop\\code\\dvp\\projeto\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|solutionrelative:cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|c:\\users\\gusta\\onedrive\\desktop\\code\\dvp\\projeto\\videos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18485922-A45F-4391-951A-E5AE6B5C6A5B}|projeto.csproj|solutionrelative:videos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cadastro.cs",
-              "DocumentMoniker": "C:\\Users\\Maria Clara\\Desktop\\exercicios\\exerciciomosca\\lopesacm\\projeto\\Cadastro.cs",
-              "RelativeDocumentMoniker": "Cadastro.cs",
-              "ToolTip": "C:\\Users\\Maria Clara\\Desktop\\exercicios\\exerciciomosca\\lopesacm\\projeto\\Cadastro.cs",
-              "RelativeToolTip": "Cadastro.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAwwE0AAAANAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\Desktop\\code\\dvp\\projeto\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gusta\\OneDrive\\Desktop\\code\\dvp\\projeto\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T19:54:36.463Z",
+              "WhenOpened": "2025-03-28T21:55:15.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cadastro.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Maria Clara\\Desktop\\exercicios\\exerciciomosca\\lopesacm\\projeto\\Cadastro.cs",
-              "RelativeDocumentMoniker": "Cadastro.cs",
-              "ToolTip": "C:\\Users\\Maria Clara\\Desktop\\exercicios\\exerciciomosca\\lopesacm\\projeto\\Cadastro.cs [Projeto]",
-              "RelativeToolTip": "Cadastro.cs [Projeto]",
+              "DocumentIndex": 3,
+              "Title": "Videos.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\Desktop\\code\\dvp\\projeto\\Videos.cs",
+              "RelativeDocumentMoniker": "Videos.cs",
+              "ToolTip": "C:\\Users\\gusta\\OneDrive\\Desktop\\code\\dvp\\projeto\\Videos.cs",
+              "RelativeToolTip": "Videos.cs",
+              "ViewState": "AgIAAB8AAACAYWZmZmYPwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T19:47:52.046Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-03-28T21:51:39.907Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Maria Clara\\Desktop\\exercicios\\exerciciomosca\\lopesacm\\projeto\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Maria Clara\\Desktop\\exercicios\\exerciciomosca\\lopesacm\\projeto\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAADwvyoAAAAxAAAAAAAAAA==",
+              "Title": "Videos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\Desktop\\code\\dvp\\projeto\\Videos.cs",
+              "RelativeDocumentMoniker": "Videos.cs",
+              "ToolTip": "C:\\Users\\gusta\\OneDrive\\Desktop\\code\\dvp\\projeto\\Videos.cs [Projeto]",
+              "RelativeToolTip": "Videos.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T19:50:28.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T21:51:36.662Z",
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Maria Clara\\Desktop\\exercicios\\exerciciomosca\\lopesacm\\projeto\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Maria Clara\\Desktop\\exercicios\\exerciciomosca\\lopesacm\\projeto\\Form1.cs [Projeto]",
-              "RelativeToolTip": "Form1.cs [Projeto]",
+              "DocumentIndex": 2,
+              "Title": "Cadastro.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\OneDrive\\Desktop\\code\\dvp\\projeto\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Cadastro.cs",
+              "ToolTip": "C:\\Users\\gusta\\OneDrive\\Desktop\\code\\dvp\\projeto\\Cadastro.cs",
+              "RelativeToolTip": "Cadastro.cs",
+              "ViewState": "AgIAADwAAAAAZmZmZqYlwEwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T19:47:50.675Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-03-28T19:54:36.463Z"
             }
           ]
         }

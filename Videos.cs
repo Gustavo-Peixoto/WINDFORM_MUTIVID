@@ -29,5 +29,117 @@ namespace projeto
             vid.Show();
             this.Hide();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form2 vid = new Form2();
+            vid.Arquivo = @"";//colocar o video que quer aqui.
+            vid.Show();
+            this.Hide();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form2 vid = new Form2();
+            vid.Arquivo = @"";//colocar o video que quer aqui.
+            vid.Show();
+            this.Hide();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form2 vid = new Form2();
+            vid.Arquivo = @"";//colocar o video que quer aqui.
+            vid.Show();
+            this.Hide();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Form2 vid = new Form2();
+            vid.Arquivo = @"";//colocar o video que quer aqui.
+            vid.Show();
+            this.Hide();
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            Form2 vid = new Form2();
+            vid.Arquivo = @"";//colocar o video que quer aqui.
+            vid.Show();
+            this.Hide();
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            Form2 vid = new Form2();
+            vid.Arquivo = @"";//colocar o video que quer aqui.
+            vid.Show();
+            this.Hide();
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            Form2 vid = new Form2();
+            vid.Arquivo = @"";//colocar o video que quer aqui.
+            vid.Show();
+            this.Hide();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Form2 vid = new Form2();
+            vid.Arquivo = @"";//colocar o video que quer aqui.
+            vid.Show();
+            this.Hide();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Form2 vid = new Form2();
+            vid.Arquivo = @"";//colocar o video que quer aqui.
+            vid.Show();
+            this.Hide();
+        }
+
+        private void button15_Click(object sender, EventArgs e)
+        {
+            Form2 vid = new Form2();
+            vid.Arquivo = @"";//colocar o video que quer aqui.
+            vid.Show();
+            this.Hide();
+        }
+
+        private void button14_Click(object sender, EventArgs e)
+        {
+            Form2 vid = new Form2();
+            vid.Arquivo = @"";//colocar o video que quer aqui.
+            vid.Show();
+            this.Hide();
+        }
+
+        private void button13_Click(object sender, EventArgs e)
+        {
+            Form2 vid = new Form2();
+            vid.Arquivo = @"";//colocar o video que quer aqui.
+            vid.Show();
+            this.Hide();
+        }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            Form2 vid = new Form2();
+            vid.Arquivo = @"";//colocar o video que quer aqui.
+            vid.Show();
+            this.Hide();
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            Form2 vid = new Form2();
+            vid.Arquivo = @"";//colocar o video que quer aqui.
+            vid.Show();
+            this.Hide();
+        }
     }
 }

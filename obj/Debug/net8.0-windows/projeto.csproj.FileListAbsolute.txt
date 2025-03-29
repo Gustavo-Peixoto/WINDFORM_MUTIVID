@@ -121,3 +121,29 @@ C:\Users\Maria Clara\Desktop\exercicios\exerciciomosca\lopesacm\projeto\obj\Debu
 C:\Users\Maria Clara\Desktop\exercicios\exerciciomosca\lopesacm\projeto\obj\Debug\net8.0-windows\projeto.pdb
 C:\Users\Maria Clara\Desktop\exercicios\exerciciomosca\lopesacm\projeto\obj\Debug\net8.0-windows\projeto.genruntimeconfig.cache
 C:\Users\Maria Clara\Desktop\exercicios\exerciciomosca\lopesacm\projeto\obj\Debug\net8.0-windows\ref\projeto.dll
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\bin\Debug\net8.0-windows\projeto.exe
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\bin\Debug\net8.0-windows\projeto.deps.json
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\bin\Debug\net8.0-windows\projeto.runtimeconfig.json
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\bin\Debug\net8.0-windows\projeto.dll
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\bin\Debug\net8.0-windows\projeto.pdb
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\obj\Debug\net8.0-windows\projeto.csproj.ResolveComReference.cache
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\obj\Debug\net8.0-windows\projeto.Cadastro.resources
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\obj\Debug\net8.0-windows\projeto.Form1.resources
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\obj\Debug\net8.0-windows\projeto.Form2.resources
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\obj\Debug\net8.0-windows\projeto.Properties.Resources.resources
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\obj\Debug\net8.0-windows\projeto.Videos.resources
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\obj\Debug\net8.0-windows\projeto.csproj.GenerateResource.cache
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\obj\Debug\net8.0-windows\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\obj\Debug\net8.0-windows\projeto.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\obj\Debug\net8.0-windows\projeto.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\obj\Debug\net8.0-windows\projeto.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\obj\Debug\net8.0-windows\projeto.sourcelink.json
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\obj\Debug\net8.0-windows\projeto.dll
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\obj\Debug\net8.0-windows\refint\projeto.dll
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\obj\Debug\net8.0-windows\projeto.pdb
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\obj\Debug\net8.0-windows\projeto.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Desktop\code\dvp\projeto\obj\Debug\net8.0-windows\ref\projeto.dll

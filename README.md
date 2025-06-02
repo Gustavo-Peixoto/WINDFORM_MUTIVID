@@ -21,11 +21,6 @@ Criar uma aplicação gráfica com as seguintes funcionalidades principais:
 - Login com verificação de credenciais salvas
 - Armazenamento das credenciais em um arquivo de texto
 - Interface para exibição de até dois vídeos ao mesmo tempo
-
-## 📷 Capturas de Tela
-
-> *(Adicione aqui imagens da interface do sistema, se desejar)*
-
 ## 🔧 Como Executar o Projeto
 
 1. Clone o repositório:
